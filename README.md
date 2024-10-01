@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @guischneider77
-- 👀 Estou em interessado em jogos, montar aplicativos, montar computadores.
+- 👀 Estou em interessado em jogos, montar aplicativos e montar computadores.
 - 🌱 Atualmente estou aprendendo ciência da computação, lógica computacional, análise e projeto de sistemas
 - 💞️ Estou procurando colaborar em desenvolvimento de computadores e de sistemas
 - 📫 Como chegar até mim por via e-mail e whatsapp
